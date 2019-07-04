@@ -8,6 +8,7 @@ body {
   background-color: white;
   color: white;
   font-family: 'Quattrocento Sans', sans-serif;
+  text-shadow: 10px 10px 10px yellow;
   font-size: 18px;
   margin: 10px 20px 10px;
   line-height: 1;
