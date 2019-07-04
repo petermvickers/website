@@ -1,0 +1,78 @@
+/* Website Styles */
+
+* {
+  font-size: 100%;
+}
+
+body {
+  background-color: white;
+  color: black;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 18px;
+  margin: 10px 20px 10px;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h1 h2 h3 {
+  font-weight: normal;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+}
+
+a:link,
+a:focus,
+a:active {
+  text-decoration: none;
+  color:red;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-right: 35px;
+  margin-left: 0;
+  }
+
+h1 {
+  margin: 30px 0;
+}
+
+{ */
+ border: 1px solid red; */
+}
+
+h1 {
+  border-bottom: 1px solid black:
+}
+
+header {
+  border-bottom: 5px solid grey:
+}
