@@ -6,10 +6,10 @@
 
 body {
   background-color: white;
-  color: white;
+  color: DodgerBlue;
   font-family: 'Quattrocento Sans', sans-serif;
-  text-shadow: 20px 20px 20px blue;
-  font-size: 18px;
+  font-size: 22px;
+  text-shadow: 1px 1px 0 black;  text-outline: blue;
   margin: 10px 20px 10px;
   line-height: 1;
   background-image: url(images/ianm.jpg);
@@ -54,7 +54,7 @@ a:hover {
 }
 
 a:visited {
-  color: black;
+  color: white;
 }
 
 p {
@@ -62,6 +62,7 @@ p {
   margin-bottom: 25px;
   margin-right: 35px;
   margin-left: 0;
+  background: LightGrey;
   }
 
 h1 {
@@ -78,4 +79,17 @@ h1 {
 
 header {
   border-bottom: 5px solid grey:
+}
+
+.banner {
+   height: 700px;
+   background-image: url(images/bellabella.jpg);
+   background-size: cover;
+   background-position: ;
+   max-width: device-width;
+}
+
+ul {
+  background: LightGrey;
+  width: 250px;
 }
